@@ -1,7 +1,9 @@
 # Blink & Catch
 
 **Blink & Catch** is a fast-paced reaction game that uses AI-powered face tracking to turn your real-life blinks into in-game actions.
+
 **Engine**: Unity
+
 ## How It Works
 - A cube moves left and right at the top of the screen.
 - When you blink, the AI detects it using face recognition and drops the cube.
